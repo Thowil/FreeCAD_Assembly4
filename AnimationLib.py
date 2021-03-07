@@ -385,4 +385,4 @@ class animateVariable():
     |       add the command to the workbench        |
     +-----------------------------------------------+
 """
-Gui.addCommand( 'Asm4_Animate', animateVariable() )
+#Gui.addCommand( 'Asm4_Animate', animateVariable() )
